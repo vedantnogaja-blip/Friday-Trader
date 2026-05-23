@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile alpaca_client.py dashboard.py main.py strategy.py)"
+    ]
+  }
+}
