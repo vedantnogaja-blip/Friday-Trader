@@ -2,3 +2,4 @@ alpaca-trade-api
 yfinance
 streamlit
 pandas
+matplotlib
